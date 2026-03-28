@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "question": "Do I need any prior Japanese knowledge to start?",
+    "answer": "Not at all! Many of my students start as complete beginners. I'll meet you exactly where you are and build a learning path from there."
+  },
+  {
+    "id": 2,
+    "question": "What ages do you teach?",
+    "answer": "I work with students of all ages, from children as young as 5 through adults. Each lesson is adapted to the student's age and learning style."
+  },
+  {
+    "id": 3,
+    "question": "Do you offer in-person and online lessons?",
+    "answer": "Yes! I offer in-person lessons in the Carlsbad and greater North County San Diego area, as well as online lessons via video call for students anywhere."
+  },
+  {
+    "id": 4,
+    "question": "How long are lessons and how often should I take them?",
+    "answer": "Standard lessons are 60 minutes. For most students, I recommend once or twice per week for steady progress. We can adjust frequency based on your goals and schedule."
+  },
+  {
+    "id": 5,
+    "question": "Can you help me prepare for the JLPT?",
+    "answer": "Absolutely. I offer targeted JLPT preparation for all levels, from N5 to N1. We'll work through practice materials, build test-taking strategies, and focus on the areas where you need the most improvement."
+  },
+  {
+    "id": 6,
+    "question": "What is your cancellation policy?",
+    "answer": "I ask for at least 24 hours notice for cancellations. Lessons cancelled with less than 24 hours notice may be charged in full. Life happens though — just communicate with me and we'll work it out."
+  },
+  {
+    "id": 7,
+    "question": "How much do lessons cost?",
+    "answer": "Rates vary depending on the lesson type (private, group, specialized). Please contact me for current pricing — I'm happy to discuss options that fit your budget and goals."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "private",
+    "title": "Private Tutoring",
+    "titleJp": "個人レッスン",
+    "icon": "User",
+    "description": "One-on-one lessons tailored to your pace, goals, and learning style. Whether you're a complete beginner or preparing for an exam, each session is built around you.",
+    "features": ["Customized curriculum", "Flexible scheduling", "In-person or online"]
+  },
+  {
+    "id": "group",
+    "title": "Group Classes",
+    "titleJp": "グループレッスン",
+    "icon": "Users",
+    "description": "Learn alongside others in small, focused groups. Practice conversation, build confidence, and enjoy the social energy of group learning.",
+    "features": ["3-6 students per class", "Structured progression", "Conversation-focused"]
+  },
+  {
+    "id": "online",
+    "title": "Online Lessons",
+    "titleJp": "オンラインレッスン",
+    "icon": "Monitor",
+    "description": "Connect from anywhere with live video lessons. Same quality instruction with the convenience of learning from home or while traveling.",
+    "features": ["Live video sessions", "Screen-shared materials", "Recording available"]
+  },
+  {
+    "id": "jlpt",
+    "title": "JLPT Preparation",
+    "titleJp": "JLPT対策",
+    "icon": "Award",
+    "description": "Targeted preparation for all JLPT levels (N5 through N1). Focused practice on reading, listening, vocabulary, and grammar sections.",
+    "features": ["All levels N5–N1", "Practice exams included", "Strategy coaching"]
+  },
+  {
+    "id": "business",
+    "title": "Business Japanese",
+    "titleJp": "ビジネス日本語",
+    "icon": "Briefcase",
+    "description": "Professional Japanese for the workplace — keigo (formal speech), email writing, meeting etiquette, and industry-specific vocabulary.",
+    "features": ["Keigo & honorifics", "Email & correspondence", "Presentation skills"]
+  },
+  {
+    "id": "kids",
+    "title": "Kids & Teens",
+    "titleJp": "子供向けレッスン",
+    "icon": "Smile",
+    "description": "Fun, engaging lessons designed for younger learners. Games, songs, and activities make language learning an adventure.",
+    "features": ["Ages 5–17", "Interactive activities", "Cultural immersion"]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah M.",
+    "type": "Private Student",
+    "text": "Hikaru made learning Japanese feel approachable from day one. After six months of weekly lessons, I was able to hold basic conversations during my trip to Tokyo. Her patience and teaching style are unmatched.",
+    "highlight": "Conversational in 6 months"
+  },
+  {
+    "id": 2,
+    "name": "James T.",
+    "type": "JLPT Student",
+    "text": "I passed the JLPT N3 on my first attempt thanks to Hikaru's structured prep sessions. She knew exactly which areas I needed to focus on and kept me motivated throughout the process.",
+    "highlight": "Passed JLPT N3 first try"
+  },
+  {
+    "id": 3,
+    "name": "The Rodriguez Family",
+    "type": "Family Lessons",
+    "text": "Our kids look forward to their Japanese lesson every week. Hikaru makes it fun with games and cultural activities. Even we as parents have picked up quite a bit just from listening in!",
+    "highlight": "The whole family is learning"
+  },
+  {
+    "id": 4,
+    "name": "David K.",
+    "type": "Business Japanese",
+    "text": "I needed to improve my business Japanese for a new role working with our Tokyo office. Hikaru's lessons on keigo and business email etiquette gave me the confidence I needed.",
+    "highlight": "Workplace-ready Japanese"
+  }
+]

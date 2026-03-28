@@ -1,0 +1,16 @@
+@config "../tailwind.config.js";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body {
+    background-color: #fffbf7;
+    color: #2d2d3a;
+  }
+  ::-webkit-scrollbar { width: 6px; }
+  ::-webkit-scrollbar-track { background-color: #fffbf7; }
+  ::-webkit-scrollbar-thumb { background-color: #e8ddd4; border-radius: 3px; }
+  ::-webkit-scrollbar-thumb:hover { background: #c2185b; }
+}
